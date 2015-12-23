@@ -92,13 +92,13 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        # Tags = @("Workstation","Local","Users","Groups","Management")
+        Tags = @("Workstation","Local","Users","Groups","Management")
 
         # A URL to the license for this module.
-        # LicenseUri = 'http://opensource.org/licenses/MS-PL'
+        LicenseUri = 'http://opensource.org/licenses/MS-PL'
 
         # A URL to the main website for this project.
-        # ProjectUri = 'https://github.com/energizedtech/LocalAccount'
+        ProjectUri = 'https://github.com/energizedtech/LocalAccount'
 
         # A URL to an icon representing this module.
         # IconUri = ''
