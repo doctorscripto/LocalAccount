@@ -193,7 +193,7 @@ function Get-LocalUser
 .DESCRIPTION
    Gets a list of local groups in the Targeted computername
 .EXAMPLE
-   Get-Localuser -computername remotepc1
+   Get-LocalGroup -computername remotepc1
 #>
 function Get-LocalGroup
 {
